@@ -1,0 +1,28 @@
+#container img{
+    border: solid black 5px;
+    min-height: 500px;
+    min-width: 550px;
+    max-height: 500px;
+    max-width: 550px;
+}
+
+a:hover{
+    opacity: 0.8;
+}
+
+h1{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+img{
+    padding: 10px;
+}
+
+a:hover{
+    border: red 3px;
+}
+
+body{
+    text-align: center;
+}
